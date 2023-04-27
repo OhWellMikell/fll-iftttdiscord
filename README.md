@@ -1,4 +1,4 @@
-# discord-ifttt
+# discord
 
 Public version of [discord-ifttt](https://discord-ifttt.vercel.app).
 
